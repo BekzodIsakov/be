@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fresh Foam X 1080v12",
+      "type": "Men's Running",
+      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make, it’s also the most versatile. The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train.",
+      "price": 159.99,
+      "category": "shoes"
+    }
+  ]
+}
